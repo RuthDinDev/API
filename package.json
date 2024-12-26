@@ -1,0 +1,24 @@
+{
+  "name": "schedule-api",
+  "version": "1.0.0",
+  "description": "Schedule Api est le projet Api de la gestion des emplois du temp de la faculte des Scieces de l'universite de Ngaoudere",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Schedule",
+    "Api",
+    "FS"
+  ],
+  "author": "Groupe 2 M1 INFO 2024-2025",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "pg": "^8.13.1",
+    "sequelize": "^6.37.5",
+    "sqlite3": "^5.1.7"
+  }
+}
